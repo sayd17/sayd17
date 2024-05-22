@@ -1,6 +1,6 @@
 # Hi there, I'm Abu Sayeed! 👋
 
-I'm a passionate engineer based in Dhaka,Bangladesh. Welcome to my GitHub profile! 🚀
+I'm a passionate software engineer based in Dhaka,Bangladesh. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
