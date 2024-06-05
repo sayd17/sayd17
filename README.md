@@ -4,7 +4,7 @@ I'm a passionate software engineer based in Dhaka,Bangladesh. Welcome to my GitH
 
 ## About Me
 
-- 💻 I'm currently pursuing a career as a PHP developer Intern.
+- 💻 I'm currently pursuing a career as a **Full Stack Developer**.
 - 🌱 I'm constantly learning and improving my skills in web development.
 - 📝 I love to share my knowledge and experiences through open-source contributions.
 
