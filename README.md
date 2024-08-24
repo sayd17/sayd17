@@ -4,7 +4,7 @@ I'm a passionate software engineer based in Dhaka,Bangladesh. Welcome to my GitH
 
 ## About Me
 
-- 💻 I'm currently pursuing a career as a **Full Stack Developer**.
+- 💻 I'm currently pursuing a career as a **Full Stack Engineer**.
 - 🌱 I'm constantly learning and improving my skills in web development.
 - 📝 I love to share my knowledge and experiences through open-source contributions.
 
@@ -12,8 +12,8 @@ I'm a passionate software engineer based in Dhaka,Bangladesh. Welcome to my GitH
 
 Here are some of the technologies and tools I work with:
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel, React
+- **Languages:** PHP, JavaScript, C++
+- **Frameworks:** Laravel, React, NextJS
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 - **Other Tools:** Composer, npm
